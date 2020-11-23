@@ -1,0 +1,2 @@
+# teststaticcontent
+Test only
